@@ -1,0 +1,26 @@
+table {
+    border: solid;
+}
+
+th {
+    border: solid;
+}
+
+td {
+    border: solid;
+    min-height: 40px;
+    min-width: 20px;
+}
+
+.table1 {
+    border-collapse: collapse;
+    empty-cells: hide;
+}
+
+.caption1 {
+    caption-side: bottom;
+}
+
+.table2 {
+    border-collapse: collapse;
+}
